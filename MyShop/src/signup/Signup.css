@@ -1,0 +1,21 @@
+.Signup{
+    background-image: url(../image/pexels-photo-1107717.jpeg);
+  
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center center !important;
+  
+  }
+  .mt_70{
+    margin-top: 200px;
+    
+  }
+  .mt_200{
+    margin-top: 300px;
+  }
+  .style{
+    margin-left: 300px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+  }

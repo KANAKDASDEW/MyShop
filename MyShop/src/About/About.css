@@ -1,0 +1,30 @@
+.banner_cont h1{
+    margin-bottom: 70px;
+}
+.banner_cont p{
+    color: rgb(25, 146, 122);
+    font-size: 29px;
+    line-height: 40px;
+    margin-bottom: 50px;
+   
+}
+
+.banner_contpart{
+    margin-top: 130px;
+}
+.banner_contpart button{
+    margin-top: 50px;
+    background-color: rgb(244, 248, 252);
+    font-size: 600;
+}
+.banner_contpart button:hover{
+    background-color: rgb(26, 223, 131);
+}
+.about_life_part h1{
+    margin-bottom: 60px;
+    font-size: 25px;
+    width: 180px;
+    height: 20px;
+    background-color: aqua;
+}
+
